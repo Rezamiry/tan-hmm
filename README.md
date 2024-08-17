@@ -1,2 +1,2 @@
 # tan-hmm
-Implementation of TAN-HMM
+Implementation of paper: "TAN-HMM: A Hidden Markov Model Integrated with Tree-Augmented Naive Bayes Observations"
